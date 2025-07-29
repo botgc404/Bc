@@ -27,7 +27,7 @@ module.exports.run = async function({ api, event, Threads }) {
 
 		const botMessage = `
 ╔════•|      ✿      |•════╗
- 💐আস্সালামু আলাইকুম💐
+ 💐নমস্কার সবাইকে💐
 ╚════•|      ✿      |•════╝
 
 🤖 𝐁𝐎𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 ✔️
@@ -50,7 +50,7 @@ module.exports.run = async function({ api, event, Threads }) {
 
 ╔╦══•  •✠•❀•✠•  •══╦╗
 ♥ 𝐁𝐎𝐓'𝐬 𝐎𝐖𝐍𝐄𝐑 ♥
-				♕ 𝐈𝐦𝐫𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 ♕
+				♕ SOURAV彡 নাথヅ ♕
 ╚╩══•  •✠•❀•✠•  •══╩╝
 		`;
 
@@ -79,7 +79,7 @@ module.exports.run = async function({ api, event, Threads }) {
 
 			let msg = threadData.customJoin || 
 `╔════•|      ✿      |•════╗
- 💐আ্ঁস্ঁসা্ঁলা্ঁমু্ঁ💚আ্ঁলা্ঁই্ঁকু্ঁম্ঁ💐
+ 💐স্বাগতম💚আপনাকে💐
 ╚════•|      ✿      |•════╝
 
 		✨🆆🅴🅻🅻 🅲🅾🅼🅴✨
@@ -102,7 +102,7 @@ module.exports.run = async function({ api, event, Threads }) {
 
 ╔╦══•  •✠•❀•✠•  •══╦╗
 ♥  𝐁𝐎𝐓'𝐬 𝐎𝐖𝐍𝐄𝐑 ♥
-				♥ 𝐈𝐦𝐫𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 ♥
+				♥ SOURAV彡 নাথヅ ♥
 ╚╩══•  •✠•❀•✠•  •══╩╝`;
 
 			msg = msg
