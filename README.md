@@ -1,6 +1,6 @@
 # 🤖 𝗦𝗢𝗨𝗥𝗔𝗩 BOT V4
 
-![IMRAN BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
+![IMRAN BOT Logo](https://drive.google.com/uc?export=view&id=1sF-Oo8E6ZT-oeFTSVWAVHgfUDOdRUmxO)
 
 **🌟 Fully Customizable Facebook Messenger Bot**  
 **Premium Features • Easy to Use • Built with ❤️ by SOURAV彡 নাথヅ**
