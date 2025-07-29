@@ -1,15 +1,15 @@
-# 🤖 IMRAN BOT V4
+# 🤖 𝗦𝗢𝗨𝗥𝗔𝗩 BOT V4
 
 ![IMRAN BOT Logo](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/imranbotlogo.png)
 
 **🌟 Fully Customizable Facebook Messenger Bot**  
-**Premium Features • Easy to Use • Built with ❤️ by Imran Ahmed**
+**Premium Features • Easy to Use • Built with ❤️ by SOURAV彡 নাথヅ**
 
 ## 👤 ABOUT ME
 
-- Name: ```IMRAN AHMED```</br> 
+- Name: ```SOURAV彡 নাথヅ```</br> 
 - Age: ```20```</br>  
-- Facebook: [Imran Ahmed](https://www.facebook.com/Imran.Ahmed099).</br>
+- Facebook: [SOURAV彡 নাথヅ](https://www.facebook.com/sourav.nath420).</br>
 
 ## 🚀 STARTUP
 
